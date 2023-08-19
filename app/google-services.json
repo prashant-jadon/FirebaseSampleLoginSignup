@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469251509872",
+    "project_id": "fir-exampleauth-93be8",
+    "storage_bucket": "fir-exampleauth-93be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469251509872:android:4914d6d47e432ca76f2eb5",
+        "android_client_info": {
+          "package_name": "chandra.networkdots.firebaseloginsignupexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469251509872-m8nmr459u9b85gk0h0dh5ptb7ehpig2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqTnKkf_6Ac6e1R2iUk22yERNzSxrdro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469251509872-m8nmr459u9b85gk0h0dh5ptb7ehpig2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
